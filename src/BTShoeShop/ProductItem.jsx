@@ -2,7 +2,7 @@ import React from 'react'
 
 export const ProductItem = (props) => {
     const { product, handleProductDetail, handleCarts } = props
-    console.log('product: ', product)
+    // console.log('product: ', product)
     return (
         <div className="col-3 mt-3">
             <div className="card">

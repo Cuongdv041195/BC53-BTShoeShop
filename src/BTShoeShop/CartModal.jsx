@@ -2,7 +2,7 @@
 import React from 'react'
 
 export const CartModal = ({ carts, handleCartQuantity, deleteCart }) => {
-    console.log('carts: ', carts)
+    // console.log('carts: ', carts)
 
     // const { carts } = props
     return (
